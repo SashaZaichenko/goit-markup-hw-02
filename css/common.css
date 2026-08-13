@@ -56,12 +56,14 @@ address {
 .contacts-list {
 }
 .contacts-item {
+}
+.contacts-link {
   color: #434455;
 }
-.contacts-item:hover {
+.contacts-link:hover {
   color: #404bbf;
 }
-.contacts-item:focus {
+.contacts-link:focus {
   color: #404bbf;
 }
 
